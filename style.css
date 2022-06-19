@@ -1,0 +1,37 @@
+.fixed{
+    background-color: #ffd7008c;
+    color: rgb(0, 0, 0);
+    font-size: 20px;
+} 
+.room{
+    background-color:   #94df0dad;
+    width: 130px;
+}
+.time{
+    background-color: #ff008378;
+    width: 150px;
+}
+.subject{
+    background-color: #00dbff87;
+    width: 200px;
+}
+.day{
+    background-color: rgb(105, 200, 86);
+    width: 150px;
+}
+.teacher{
+    background-color: rgba(172, 134, 19, 0.63);
+    width: 200px;
+} 
+table{
+    text-align: center;
+    font-size: 16px;
+} 
+h2 {
+    color: #8500d0;
+    font-size: 22px;
+    font-style: italic;
+    
+    text-decoration: aliceblue;
+    text-transform: uppercase;
+    text-shadow: 1px 1px gray;}
